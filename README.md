@@ -1,4 +1,7 @@
 # ATM
+
+[Click here to download executable file](../blob/master/LICENSE)
+
 An ATM machine made during Software Tools course.
 MS Access was used as database.
 
